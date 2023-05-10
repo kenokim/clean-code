@@ -15,3 +15,7 @@ It's more important to make your peers understand your code, than computer does.
 
 Clean code works as it reads.
 
+Function names are verbs, because they do things.
+
+Every line of a function must be in the same abstraction level.
+
