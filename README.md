@@ -19,3 +19,4 @@ Function names are verbs, because they do things.
 
 Every line of a function must be in the same abstraction level.
 
+좋은 코드는 다른 사람이 읽기 쉬운 코드다.
