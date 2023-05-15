@@ -20,3 +20,5 @@ Function names are verbs, because they do things.
 Every line of a function must be in the same abstraction level.
 
 좋은 코드는 다른 사람이 읽기 쉬운 코드다.
+
+가독성 좋은 코드는 세로 길이가 짧아야 하고, 맨 위가 가장 높은 수준, 아래로 갈수록 low level 로 구현되어야 한다.
