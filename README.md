@@ -31,3 +31,6 @@ It's polite to allow the readers to exit early, by providing important informati
 
 Edge case 는 신경 써서 테스트한다.
 
+테스트 코드는 가독성이 중요하다. 테스트 코드를 작성하고 중복을 제거해야 한다.
+
+주석은 필요한 것만 남겨야 한다.
